@@ -1,0 +1,10 @@
+[
+  {
+    "id": "TC001_SearchWithKey",
+    "searchKey": "dress"
+  },
+  {
+    "id": "TC002_SearchWithKey_Other",
+    "searchKey": "shirt"
+  }
+]
